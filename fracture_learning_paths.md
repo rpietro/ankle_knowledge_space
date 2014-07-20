@@ -9,6 +9,8 @@ Tarcisio Barros Filho
 João Ricardo Vissoci  
 Ricardo Pietrobon  
 
+<!-- usar AO -->
+
 
 ## Abstract
 
@@ -34,7 +36,7 @@ We first describe how the database was created, validated, and then semantically
 * Select a group of 100 ankle fractures - DICOM for radiographs and anonymized <!-- is that possible?? -->. images selected to represent a wide range of severity
 * create a checklist of common signs
 * select a classification
-* have a group of five specialists independently grade 60 images each, so that each image is graded by at least three specialists
+* have a group of five specialists independently grade 40 images each, so that each image is graded by at least two specialists
 
 
 
